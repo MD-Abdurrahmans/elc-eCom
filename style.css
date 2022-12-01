@@ -1,0 +1,51 @@
+
+
+
+.logo img{
+    margin-right: 600px;
+    
+}
+
+
+
+
+.buynow{
+    background-color: rgb(228, 224, 15);
+    color: white;
+    font-weight: bold;
+    padding: 8px 30px;
+    border:none;
+}
+
+.carousel {
+   background-image: url("images/bg-1.png");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   
+}
+
+
+
+
+
+
+
+
+
+
+.carousel-indicators button{
+    background-color: rgb(255, 251, 0) !important;
+}
+
+#laptop,#phone{
+
+    margin-top: 100px;
+}
+
+
+.card-footer{
+    border-top: none;
+  
+}
+
